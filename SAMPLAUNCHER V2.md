@@ -24,13 +24,6 @@
 - [ดาวน์โหลด HeidiSQL ( *บนเครื่อง Server VPS* )](https://www.heidisql.com/download.php)
 ## การติดตั้งสำหรับ DEV
 
-- [การติดตั้ง Visual Studio 2022 Community](https://fujinons.web.app/howto/install-vs-2022.html)
-- การติดตั้ง Inno Setup - ทำการติดตั้งโปรแกรม Inno Setup บนเครื่อง PC ของคุณตามปกติ
-- การติดตั้ง Visual Studio Code - ทำการติดตั้งโปรแกรม Visual Studio Code บนเครื่อง Server VPS ของคุณตามปกติ
-- การติดตั้ง WinRAR - ทำการติดตั้งโปรแกรม WinRAR บนเครื่อง PC ของคุณตามปกติ
-- การติดตั้ง Microsoft Edge WebView2 Runtime เวอร์ชั่น Evergreen Bootstrapper - ทำการติดตั้งโปรแกรม Microsoft Edge WebView2 Runtime เวอร์ชั่น Evergreen Bootstrapper บนเครื่อง PC ของคุณตามปกติ
-- [การติดตั้ง XAMPP ( *บนเครื่อง Server VPS* )](https://fujinons.web.app/howto/install-xampp.html)
-- [การติดตั้ง HeidiSQL ( *บนเครื่อง Server VPS* )](https://fujinons.web.app/howto/install-HeidiSQL.html)
 ## วิธีตั้งค่าสำหรับ DEV
 ### ที่อยู่ไฟล์โปรเจค
 - ให้ทำการดาวน์โหลดไฟล์และแตกไฟล์ "SAMPLauncherWebView2.zip" ด้วยโปรแกรม  Winrar ไปที่ ไดร์ `C` เท่านั้น! คุณควรจะได้ที่อยู่ของไฟล์แบบนี้
